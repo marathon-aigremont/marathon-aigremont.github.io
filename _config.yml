@@ -1,9 +1,9 @@
-title:            Site Title
-description:      Site description for the metas.
+title:            Marathon Aigremont
+description:      Marathon d'Aigremont version 2020.
 logo:             omikron.png
 disqus_shortname: shortname
 # Assign a default image for your site's header and footer
-default_bg:       default_bg.jpg
+default_bg:       brice-aigremont.jpeg
 search:           true
 share:            true
 # Read Time is a calculator tp provide post read-time based on word count. Usage is recommended.
@@ -42,20 +42,12 @@ jekyll-archives:
 
 # Owner/author information
 author:
-  name:           Your Name
-  picture:        your-photo.jpg
-  email:          your@email.com
+  name:           Aigremont @Roulans - Official
+  picture:        brice-aigremont.jpeg
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:    Some Details about yourself
+  description:    Sprint d'Aigremont Aout 2020
   # Social networking links used in footer. Update and remove as you like.
-  twitter:
-  facebook:
-  github:
-  linkedin:
-  instagram:
-  tumblr:
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:    "http://plus.google.com/123123123123132123"
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:

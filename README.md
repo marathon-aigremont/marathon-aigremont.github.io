@@ -63,7 +63,7 @@ description:      Site description for the metas.
 logo:             omikron.png
 disqus_shortname: shortname
 # Assign a default image for your site's header and footer
-default_bg:       default_bg.jpg
+default_bg:       brice-aigremont.jpeg
 search:           true
 share:            true
 # Read Time is a calculator tp provide post read-time based on word count. Usage is recommended.
